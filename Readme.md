@@ -1,1 +1,3 @@
-user profile assignment html css layout design 
+# user portfolio with SCSS
+
+second revision of userporfolio
